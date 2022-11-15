@@ -14,7 +14,7 @@ If your README is long, add a table of contents to make it easy for users to fin
  ![Work-Day-Scheduler](/assets/day-planner-ss.png)
 
 ## Link
-https://dfletch12.github.io/Password-Generator/
+https://dfletch12.github.io/day-planner/
 
 
 ## License
